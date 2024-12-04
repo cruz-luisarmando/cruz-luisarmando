@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web developmet with Django
 - 💞️ I’m looking to collaborate on anything I could
-- 📫 How to reach me luisarrmando@live.com.mx, cruz.luisarmando@gmail.com
+- 📫 How to reach me luisarrmando@live.com.mx, cruz.luisarmando@gmail.com, https://ko-fi.com/luis239732
 
 <!---
 cruz-luisarmando/cruz-luisarmando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
